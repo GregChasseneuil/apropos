@@ -1,5 +1,9 @@
-h1,p {font-size: 30px;
+h1 {font-size: 30px;
     color: red;
     border: solid black 2px;
     border-radius: 25px;
+ }
+ 
+ p {font-size: 10px;
+    color: black;
  }
